@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "test1s",
+  "info": {
+    "singularName": "test1",
+    "pluralName": "test1s",
+    "displayName": "test1"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "testq": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      }
+    }
+  }
+}
